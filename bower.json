@@ -12,6 +12,7 @@
     "Gemfile",
     "Gemfile.lock",
     "Rakefile",
-    "bourbon.gemspec"
+    "bourbon.gemspec",
+    "readme.md"
   ]
 }
